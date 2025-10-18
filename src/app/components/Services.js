@@ -37,7 +37,7 @@ const Services = () => {
         className="font-ovo mx-auto mt-5 mb-12 max-w-2xl"
       >
         I offer a range of services to help bring your digital ideas to life.
-        From concept to deployment, I'm here to help you succeed.
+        From concept to deployment, I`m here to help you succeed.
       </motion.p>
       <motion.div
         initial={{ opacity: 0 }}

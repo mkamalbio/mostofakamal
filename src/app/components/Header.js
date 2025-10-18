@@ -48,7 +48,7 @@ const Header = () => {
         className="font-ovo mx-auto max-w-2xl"
       >
         I build exceptional digital experiences that are fast, accessible,
-        visually appealing, and responsive. Let's turn your ideas into reality
+        visually appealing, and responsive. Let`s turn your ideas into reality
         with clean, efficient code.
       </motion.p>
       <div className="mt-5 flex flex-col items-center gap-4 md:flex-row">
